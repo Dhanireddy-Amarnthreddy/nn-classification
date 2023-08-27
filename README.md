@@ -123,7 +123,7 @@ X_train_scaled = np.copy(X_train)
 X_test_scaled = np.copy(X_test)
 X_train_scaled[:,2] = scaler_age.transform(X_train[:,2].reshape(-1,1)).reshape(-1)
 X_test_scaled[:,2] = scaler_age.transform(X_test[:,2].reshape(-1,1)).reshape(-1)
-```
+
 ## Creation of model
 ```
 ai_brain = Sequential([
@@ -182,7 +182,7 @@ with open('customer_data.pickle', 'rb') as fh:
    [X_train_scaled,y_train,X_test_scaled,y_test,customers_1,customer_df_cleaned,scaler_age,enc,one_hot_enc,le]=pickle.load(fh)
 ```
 ## Making the prediction for single input
-```
+
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/9cbe1b02-a491-4508-9a34-082c1c165b61)
 
 
