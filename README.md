@@ -190,7 +190,7 @@ with open('customer_data.pickle', 'rb') as fh:
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/245c3a0e-f69e-47d0-acf7-6f35a09aeab9)
+![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/258e2db7-ec43-4ef1-89fe-68183d61617e)
 
 ## Classification Report
 
