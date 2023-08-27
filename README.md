@@ -186,7 +186,7 @@ with open('customer_data.pickle', 'rb') as fh:
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/9cbe1b02-a491-4508-9a34-082c1c165b61)
 
 
-### output
+# Output
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
@@ -204,7 +204,7 @@ with open('customer_data.pickle', 'rb') as fh:
 
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/a515948e-466a-4335-a694-b820ea224d91)
 
-### Result:
+# Result:
 
 Therefore a Neural network classification model is developed and executed successfully.
 
