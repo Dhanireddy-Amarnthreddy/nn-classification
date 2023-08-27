@@ -187,16 +187,25 @@ with open('customer_data.pickle', 'rb') as fh:
 
 ```
 ### output
+
 ## Training Loss, Validation Loss Vs Iteration Plot
+
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/245c3a0e-f69e-47d0-acf7-6f35a09aeab9)
 
 ## Classification Report
+
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/812ffc5f-b707-4fc1-9d43-7eef652696ee)
+
 ## Confusion Matrix
+
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/d78e23aa-9cf2-455d-90cc-bed2cfffe9ff)
+
 ## New Sample Data Prediction
+
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/a515948e-466a-4335-a694-b820ea224d91)
+
 ### Result:
+
 Therefore a Neural network classification model is developed and executed successfully.
 
 
