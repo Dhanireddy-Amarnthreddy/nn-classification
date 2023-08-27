@@ -185,7 +185,7 @@ with open('customer_data.pickle', 'rb') as fh:
 ```
 ![image](https://github.com/Dhanireddy-Amarnthreddy/nn-classification/assets/94165103/9cbe1b02-a491-4508-9a34-082c1c165b61)
 
-```
+
 ### output
 
 ## Training Loss, Validation Loss Vs Iteration Plot
